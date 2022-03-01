@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://fskbhl83s6.execute-api.eu-west-1.amazonaws.com/api';

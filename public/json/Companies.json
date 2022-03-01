@@ -1,0 +1,22 @@
+[
+  {
+    "companyId": 1,
+    "name": "JanLouisEnCo",
+    "campaigns": []
+  },
+  {
+    "companyId": 2,
+    "name": "JaapEnCo",
+    "campaigns": []
+  },
+  {
+    "companyId": 3,
+    "name": "PhilippaEnCo",
+    "campaigns": []
+  },
+  {
+    "companyId": 4,
+    "name": "VasilisEnCo",
+    "campaigns": []
+  }
+]

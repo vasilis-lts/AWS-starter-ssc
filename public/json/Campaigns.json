@@ -1,0 +1,26 @@
+[
+  {
+    "campaignId": 1,
+    "name": "Campaign Name",
+    "companyId": 1,
+    "period": "period 1",
+    "isFrozen": false,
+    "shipmentTotals": {
+      "totalCount": 9,
+      "totalValidationErrors": 8,
+      "totalLaneDeterminationErrors": 1
+    }
+  },
+  {
+    "campaignId": 2,
+    "name": "Campaign Name 2",
+    "companyId": 2,
+    "period": "period 2",
+    "isFrozen": true,
+    "shipmentTotals": {
+      "totalCount": 10,
+      "totalValidationErrors": 3,
+      "totalLaneDeterminationErrors": 7
+    }
+  }
+]

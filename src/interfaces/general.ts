@@ -1,0 +1,1 @@
+export type Alerts = 'success' | 'info' | 'warning' | 'error';
